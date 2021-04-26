@@ -23,3 +23,4 @@ function (MyPCIsaClient) {
 # Was it helpful?
 
 ![](https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif)
+this theory file has been reviewed by Pauline Boiteux.
